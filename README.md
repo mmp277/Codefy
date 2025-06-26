@@ -17,11 +17,11 @@
 - **Authentication**: JWT
 - **Realtime**: Socket.io
 
-### Prerequisites
+## Prerequisites
 - Node.js (v16+) (v18 preferably)
 - MongoDB Atlas account
 
-### Installation
+## Installation
 
 1. Clone the repo:
    ```
@@ -42,7 +42,7 @@
   ```
 
 4. Start the Application:
-  # In separate terminals:
+In separate terminals:
   ```
   cd backend && npm start
   cd frontend && npm run dev
